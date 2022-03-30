@@ -1,0 +1,27 @@
+*{
+	font-family: Arial;
+	font-size: 11pt;
+}
+th{
+	font-size: 16pt;
+	background: 	#ee82ee;
+
+}
+table{
+	
+	bolder-collapse: collapse;
+	border: 1px solid #0000cd;
+	 background-image: linear-gradient(to bottom right, lightskyblue, white);
+}
+button{
+	background: 	#ee82ee;
+	 padding: 5px 15px;	
+ }
+ td{
+	padding: 5px;
+}
+input{
+	padding: 5px;
+	border: 1px dotted #00ffff;
+	background:	#b0e0e6 ;
+ }

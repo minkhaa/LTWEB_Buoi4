@@ -1,0 +1,23 @@
+*{
+	font-family: Tahoma;
+	font-size: 11pt;
+}
+th{
+	font-size: 13pt;
+}
+table{
+	bolder-collapse: collapse;
+}
+td{
+	padding: 5px;
+}
+input{
+	padding: 5px;
+	width: 230px;
+	border: 1px dotted #00ffff;
+	background: #add8e6;
+ }
+ button{
+	background:#48d1cc;
+	 padding: 5px;	
+ }
